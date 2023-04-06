@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const fileController = require('../controllers/file_controller');
+const fileController = require('../controllers/file.controller');
 
 
 //route for uploading new file
@@ -13,4 +13,7 @@ router.get('/open',fileController.open);
 
 
 //route for deleting a particular file
-router.get('/delete',fileController.delete);    
+router.get('/delete',fileController.delete);   
+
+
+module.exports = router;
