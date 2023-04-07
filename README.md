@@ -30,7 +30,15 @@ of the table only (empty search box displays all the data).
 table headers are dynamic.
 
 
+## Screenshot
 
+![Alt text](c:/Users/Abhishek/OneDrive/Pictures/Screenshots/Screenshot%20(4).png)
+
+
+![Alt text](c:/Users/Abhishek/OneDrive/Pictures/Screenshots/Screenshot%20(8).png)
+
+
+![Alt text](c:/Users/Abhishek/OneDrive/Pictures/Screenshots/Screenshot%20(9).png)
 
 ## Support
 
